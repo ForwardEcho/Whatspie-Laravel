@@ -31,27 +31,26 @@ Jika Anda ingin mempelajari lebih lanjut, silakan kunjungi situs resmi [Whatspie
 ```
 ## Setup API Token Whatspie
 Pertama Login/Register akun di [Whatspie](https://app.whatspie.com/login). Lalu pergi ke menu Devices dan tambahkan
-
-![image](https://github.com/user-attachments/assets/050e08bf-a083-49af-aa35-cb04554c6060)
+<img width="1639" height="391" alt="image" src="https://github.com/user-attachments/assets/55f57376-67c2-4336-8d90-f9f2e2135059" />
 
 Kemudian subscribe package, aku ambil versi gratis
-![image](https://github.com/user-attachments/assets/1c7bc4b9-ed20-4feb-ab94-73304631f749)
+<img width="1618" height="854" alt="image" src="https://github.com/user-attachments/assets/5fc3a69b-b79f-4426-96e6-0a42553f3e6e" />
 
 Kemudian masukkan nomor telepon pribadi atau admin perusahaan
-![image](https://github.com/user-attachments/assets/fd6506ee-67df-4a82-9489-8e52c55b8dbb)
+<img width="1611" height="468" alt="image" src="https://github.com/user-attachments/assets/0b1c19bf-4b0d-4950-aa0a-2fcbca4d1d08" />
 
 Masukkan kode otp yang dikirim melalui whatsapp
-![image](https://github.com/user-attachments/assets/ba98fa65-95ca-44fc-aa02-7e9431a042da)
+<img width="1612" height="675" alt="image" src="https://github.com/user-attachments/assets/bec5e882-2172-42cf-a3b2-ef7a192c820f" />
 
 Scan **QR Code** agar Whatsapp terhubung dengan Whatspie
-![image](https://github.com/user-attachments/assets/cfe5737c-c8e4-4822-b134-9b2e2a495e90)
-![image](https://github.com/user-attachments/assets/03c43543-665b-4d1e-975f-c2a7f8699322)
+<img width="1624" height="465" alt="image" src="https://github.com/user-attachments/assets/babc9bfd-7b5a-4046-b3d7-3134dd96f3e4" />
+<img width="1631" height="651" alt="image" src="https://github.com/user-attachments/assets/504e2c54-c07b-46b1-bc81-b2484f87818e" />
 
 Akan muncul notifikasi seperti berikut, jika kalian berhasil menambahkan device
-![image](https://github.com/user-attachments/assets/7ced29d1-d031-4626-a9d8-811ea0ae13d5)
+<img width="1618" height="244" alt="image" src="https://github.com/user-attachments/assets/5ee58b7f-54e8-49ba-916f-680af548cc45" />
 
 buka menu profile setting, kemudian copy API Key
-![image](https://github.com/user-attachments/assets/a675b9fa-6f00-450b-bf13-8b532f31effe)
+<img width="1624" height="741" alt="image" src="https://github.com/user-attachments/assets/ec217dcb-fdef-4fc5-82af-cd95f93dee00" />
 
 Setup Environment File (.env)
 ```env
@@ -70,7 +69,8 @@ Run Locally
 ```
 
 jika sudah, coba kirim pesan pada halaman berikut http://localhost:8000/send-message
-![image](https://github.com/user-attachments/assets/529c531a-093c-4aad-9a1d-e841c6bb92c8)
+<img width="1242" height="523" alt="image" src="https://github.com/user-attachments/assets/168d711a-381e-4ccb-812c-3fb21e4530b1" />
+
 | Type     | Description                |
 | :------- | :------------------------- |
 | `Sender Number` | Registred Device Number |
