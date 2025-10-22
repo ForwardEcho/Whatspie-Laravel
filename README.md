@@ -50,7 +50,7 @@ Akan muncul notifikasi seperti berikut, jika kalian berhasil menambahkan device
 <img width="1618" height="244" alt="image" src="https://github.com/user-attachments/assets/5ee58b7f-54e8-49ba-916f-680af548cc45" />
 
 buka menu profile setting, kemudian copy API Key
-<img width="1624" height="741" alt="image" src="https://github.com/user-attachments/assets/ec217dcb-fdef-4fc5-82af-cd95f93dee00" />
+<img width="1624" height="741" alt="edit" src="https://github.com/user-attachments/assets/79c29502-99dd-486b-8ba2-de3631e23061" />
 
 Setup Environment File (.env)
 ```env
